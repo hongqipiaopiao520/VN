@@ -19,6 +19,7 @@ declare module 'vue' {
     NSpin: typeof import('naive-ui')['NSpin']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    TimeLineCursor: typeof import('./src/components/timeLine/TimeLineCursor.vue')['default']
     VideoItem: typeof import('./src/components/videoItem.vue')['default']
     VideoUpload: typeof import('./src/components/videoUpload.vue')['default']
   }

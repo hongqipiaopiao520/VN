@@ -9,7 +9,7 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
-		"@types/node": "^22.13.4",
+		"lodash-es": "^4.17.21",
 		"@webav/av-canvas": "^1.0.19",
 		"@webav/av-cliper": "^1.0.19",
 		"opfs-tools": "^0.4.1",
